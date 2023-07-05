@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CLQ6A-TKW-C1L1R1H1QBB7935CC3")(type "KiCad")(uri "${KIPRJMOD}/Resources/plcc8.pretty/CLQ6A-TKW-C1L1R1H1QBB7935CC3.kicad_sym")(options "")(descr ""))
+)
